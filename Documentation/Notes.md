@@ -1,4 +1,17 @@
 # JavaScript Unit Testing
 
   - the course proposes using mocha as testing framework
-  
+  - http://chaijs.com/guide/installation/
+  - http://chaijs.com/guide/styles/
+  - **http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/**
+
+## 
+  - Init npm
+  ```
+  npm init
+  ```
+  - Install chai as dev dependency
+  ```
+  npm install chai --save-dev
+  ```
+
