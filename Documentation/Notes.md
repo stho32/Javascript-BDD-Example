@@ -6,7 +6,7 @@
   - **http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/**
   - https://mochajs.org/
 
-## 
+## Setup
   - Init npm
   ```
   npm init
@@ -15,4 +15,17 @@
   ```
   npm install mocha chai --save-dev
   ```
-
+  - Change the test script for npm to "mocha Tests" (in package.json). 
+  ```
+  ...
+  "scripts": {
+    "test" : "mocha Tests"
+  },
+  ...
+  ```
+  - place some tests within the folder "Tests"
+  - run the tests placed within the folder "Tests"
+  ```
+  npm test
+  ```
+    
