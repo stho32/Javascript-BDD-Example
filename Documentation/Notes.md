@@ -6,6 +6,10 @@
   - **http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/**
   - https://mochajs.org/
 
+  - I use the folder name "Tests" for my tests because I think it looks
+    better than "test" (It looks more like my other preferences for folder names). 
+    For that I have to use a few modified commands but nothing critical. 
+
 ## Setup
   - Init npm
   ```
