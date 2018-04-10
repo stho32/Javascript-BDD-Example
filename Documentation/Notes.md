@@ -10,8 +10,8 @@
   ```
   npm init
   ```
-  - Install chai as dev dependency
+  - Install mocha and chai as dev dependency
   ```
-  npm install chai --save-dev
+  npm install mocha chai --save-dev
   ```
 
