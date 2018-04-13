@@ -32,4 +32,8 @@
   ```
   npm test
   ```
+  - run the tests in "minimal" reporting mode (only show details for failing tests)
+  ```
+  npm run test-minimal
+  ```
     

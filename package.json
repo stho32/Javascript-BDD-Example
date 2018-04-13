@@ -4,7 +4,8 @@
   "description": "course: https://teamtreehouse.com/library/javascript-unit-testing/introducing-unit-testing/introduction",
   "main": "Source/index.js",
   "scripts": {
-    "test" : "mocha Tests"
+    "test" : "mocha Tests",
+    "test-minimal" : "mocha --reporter min Tests"
   },
   "repository": {
     "type": "git",
