@@ -8,6 +8,7 @@ course:
 links: 
   - http://www.chaijs.com/api/bdd/
   - https://mochajs.org/
+  - http://sinonjs.org/ (has been recommended as something to read for mocks, stubs and spies)
   
 
 
