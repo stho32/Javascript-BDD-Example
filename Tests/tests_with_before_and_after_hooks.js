@@ -10,20 +10,20 @@ describe("checkForShip", () => {
     };
 
     before(function() {
-        console.log("executing before action...");
+        //console.log("executing before action...");
     });
 
     after(function() {
-        console.log("executing after action...");
+        //console.log("executing after action...");
     });
 
 
     beforeEach(function() {
-        console.log("runs before each test in this block");
+        //console.log("runs before each test in this block");
     });
 
     afterEach(function() {
-        console.log("runs after each test in this block");
+        //console.log("runs after each test in this block");
     });
 
     it("should correctly report no ship at a given players coordinate", () => {
