@@ -5,7 +5,8 @@
   "main": "Source/index.js",
   "scripts": {
     "test" : "mocha Tests",
-    "test-minimal" : "mocha --reporter min Tests"
+    "test-minimal" : "mocha --reporter min Tests",
+    "test-watch" : "mocha --reporter min --watch Tests"
   },
   "repository": {
     "type": "git",

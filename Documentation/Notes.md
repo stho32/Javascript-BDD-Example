@@ -36,4 +36,8 @@
   ```
   npm run test-minimal
   ```
+  - run the tests in "watch"-mode (continuously)
+  ```
+  npm run test-watch
+  ```  
     
