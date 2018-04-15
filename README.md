@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/stho32/Javascript-BDD-Notes.svg?branch=master)](https://travis-ci.org/stho32/Javascript-BDD-Notes)
+
 # JavaScript BDD Notes
 
 This repository is an example of the things presented in the named course.
