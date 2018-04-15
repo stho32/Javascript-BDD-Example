@@ -1,8 +1,9 @@
-[![Build Status](https://travis-ci.org/stho32/Javascript-BDD-Notes.svg?branch=master)](https://travis-ci.org/stho32/Javascript-BDD-Notes)
+[![Build Status](https://travis-ci.org/stho32/Javascript-BDD-Example.svg?branch=master)](https://travis-ci.org/stho32/Javascript-BDD-Example)
 
-# JavaScript BDD Notes
+# JavaScript BDD Example
 
 This repository is an example of the things presented in the named course.
+Its about mocha, chai, setting up unit tests, different types of unit tests, and finally adding travis ci and coverage on github.
 
 course: 
   - https://teamtreehouse.com/library/javascript-unit-testing/introducing-unit-testing/introduction
