@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/stho32/Javascript-BDD-Example.svg?branch=master)](https://travis-ci.org/stho32/Javascript-BDD-Example)
+[![Build Status](https://travis-ci.org/stho32/Javascript-BDD-Example.svg?branch=master)](https://travis-ci.org/stho32/Javascript-BDD-Example) [![Coverage Status](https://coveralls.io/repos/github/stho32/Javascript-BDD-Example/badge.svg?branch=master)](https://coveralls.io/github/stho32/Javascript-BDD-Example?branch=master)
 
 # JavaScript BDD Example
 
