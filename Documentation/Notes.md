@@ -40,4 +40,8 @@
   ```
   npm run test-watch
   ```  
-    
+  - for code coverage with coveralls.io 
+  ```
+  npm install coveralls --save-dev
+  npm install mocha-lcov-reporter --save-dev
+  ```
