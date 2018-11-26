@@ -42,6 +42,7 @@
   ```  
   - for code coverage with coveralls.io 
   ```
+  npm install blanket --save-dev
   npm install coveralls --save-dev
   npm install mocha-lcov-reporter --save-dev
   ```
